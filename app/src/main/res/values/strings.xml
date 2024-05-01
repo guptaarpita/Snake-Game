@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Snake Game</string>
+    <string name="x_0">x 0</string>
+    <string name="play">Play</string>
+    <string name="up">Up</string>
+    <string name="down">Down</string>
+    <string name="left">Left</string>
+    <string name="right">Right</string>
+    <string name="apple_description" />
+    <string name="additional_element_description" />
+    <string name="snake_description" />
+    <string name="todo">TODO</string>
+</resources>
